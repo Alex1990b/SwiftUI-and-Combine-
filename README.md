@@ -1,2 +1,2 @@
-# SwiftUI-and-Combine-
+# SwiftUI-and-Combine
 SwiftUI + Combine  project example
